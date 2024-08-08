@@ -117,13 +117,13 @@ IEEE International Conference on Acoustics, Speech and Signal Processing **(ICAS
 - *2019* SJTU SPEIT ARDIAN Enterprise Scholarship
 
 # 📚 Services
-- *2024.02* ICME, PRML Reviewer
+- *2024.02* NeurIPS, CVPR, ICONIP, ICME, PRML Reviewer
 - *2023.09 - 2024.06* TA, Physics, SPEIT, SJTU
 
 # 🔨 Skills
 - **Programming Languages**: Python, C/C++
 - **Platform**: Linux, Windows, Docker
 - **Development**: PyTorch, OpenCV, Git, CUDA
-- **English Proficiency**: TOEFL iBT: 111, CET6: 564
+- **English Proficiency**: TOEFL iBT: 111
 - **French Proficiency**: DELF B2
 - **Document Writing**: LaTeX, Markdown 
