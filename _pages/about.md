@@ -23,6 +23,7 @@ My primary areas of research interest include computer vision, diffusion model, 
 
 
 # 🔥 News
+- *2024.11*: &nbsp;🎉🎉 One paper accepted by **WSDM 2024**!
 - *2024.05*: &nbsp;🎉🎉 One paper accepted by **TCSVT 2024**!
 - *2024.04*: &nbsp;🎉🎉 One paper accepted by **ICMR 2024**!
 - *2024.03*: &nbsp;🎉🎉 One paper accepted by **ICME 2024**!
@@ -31,8 +32,9 @@ My primary areas of research interest include computer vision, diffusion model, 
 - *2023.12*: &nbsp;🎉🎉 Three paper accepted by **ICASSP 2024**! See you in Seoul!
 
 # 📖 Educations
-- *2022.09 - 2025.03 (now)*, **Master Candidate** in Electronic Information, Shanghai Jiao Tong University, China. 
-- *2018.09 - 2022.06*, **Bachelor of Arts** in French, **Bachelor of Science** in Information Engineering, Shanghai Jiao Tong University, China. 
+- *2022.09 - 2025.03 (now)*, **Master Candidate** in Electronic Information, Shanghai Jiao Tong University, China.
+- *2024.08 - 2024.11*, **Visiting Student** at ECE, National University of Singapore, Singapre.
+- *2018.09 - 2022.06*, **Bachelor of Arts** in French, **Bachelor of Engineering** in Information Engineering, Shanghai Jiao Tong University, China.
 
 
 # 📝 Publications 
@@ -40,9 +42,9 @@ My primary areas of research interest include computer vision, diffusion model, 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/fedhca2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[FedHCA$^2$ : Towards Hetero-Client Federated Multi-Task Learning](https://arxiv.org/abs/2311.13250)**
+**[FedHCA$^2$ : Towards Hetero-Client Federated Multi-Task Learning](https://openaccess.thecvf.com/content/CVPR2024/html/Lu_FedHCA2_Towards_Hetero-Client_Federated_Multi-Task_Learning_CVPR_2024_paper.html)**
 
-Yuxiang Lu$^*$, **Suizhi Huang$^\*$**, Yuwen Yang, Shalayiding Sirejiding, Yue Ding, Hongtao Lu (co-first author)
+Yuxiang Lu$^*$, **Suizhi Huang$^\*$**, Yuwen Yang, Shalayiding Sirejiding, Yue Ding, Hongtao Lu **(co-first author)**
 
 IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR) 2024**
 </div>
@@ -51,7 +53,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR) 2024**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2024</div><img src='images/yolomed.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[YOLO-MED : Multi-Task Interaction Network for Biomedical Images](https://arxiv.org/abs/2403.00245)**
+**[YOLO-MED : Multi-Task Interaction Network for Biomedical Images](https://ieeexplore.ieee.org/abstract/document/10446165/)**
 
 **Suizhi Huang**, Shalayiding Sirejiding, Yuxiang Lu, Yue Ding, Leheng Liu, Hui Zhou, Hongtao Lu
 
@@ -59,25 +61,31 @@ IEEE International Conference on Acoustics, Speech and Signal Processing **(ICAS
 </div>
 </div>
 
-- **[UNIDEAL: Curriculum Knowledge Distillation Federated Learning](https://arxiv.org/abs/2309.08961)**
+- **Few-shot Implicit Function Generation**
+
+  **Suizhi Huang**, Xingyi Yang, Hongtao Lu, Xinchao Wang
+
+  IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025 (under review)
+
+- **[UNIDEAL: Curriculum Knowledge Distillation Federated Learning](https://ieeexplore.ieee.org/abstract/document/10447769/)**
   
   Yuwen Yang, Chang Liu, Xun Cai, **Suizhi Huang**, Hongtao Lu, Yue Ding
   
   IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP) 2024 Oral**
 
-- **[Task Indicating Transformer for Task-conditional Dense Predictions](https://arxiv.org/abs/2403.00327)**
+- **[Task Indicating Transformer for Task-conditional Dense Predictions](https://ieeexplore.ieee.org/abstract/document/10445743/)**
   
   Yuxiang Lu, Shalayiding Sirejiding, Yue Ding, Bayram Bayramli, **Suizhi Huang**, Hongtao Lu
   
   IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP) 2024 Oral**
 
-- **BARTENDER: A Simple Baseline Model for Task-level Heterogeneous Federated Learning**
+- **[BARTENDER: A Simple Baseline Model for Task-level Heterogeneous Federated Learning](https://ieeexplore.ieee.org/abstract/document/10688296/)**
   
   Yuwen Yang, Yuxiang Lu, **Suizhi Huang**, Shalayiding Sirejiding, Chang Liu, Muyang Yi, Zhaozhi Xie, Yue Ding, Hongtao Lu
   
   IEEE International Conference on Multimedia and Expo **(ICME) 2024**
 
-- **[Federated Multi-Task Learning on Non-IID Data Silos: An Experimental Study](https://arxiv.org/abs/2402.12876)**
+- **[Federated Multi-Task Learning on Non-IID Data Silos: An Experimental Study](https://dl.acm.org/doi/abs/10.1145/3652583.3657999)**
   
   Yuwen Yang, Yuxiang Lu, **Suizhi Huang**, Shalayiding Sirejiding, Hongtao Lu, Yue Ding
   
@@ -89,20 +97,6 @@ IEEE International Conference on Acoustics, Speech and Signal Processing **(ICAS
   
   IEEE Transactions on Circuits and Systems for Video Technology **(TCSVT) 2024**
 
-  
-- **Expeditious Low Dose CT Reconstruction via Gaussian Splatting**
-
-  Shaokai Wu, Yue Ding, Yuxiang Lu, **Suizhi Huang**, Hongtao Lu
-
-  ACM MULTIMEDIA (ACMMM) 2024 _under review_
-
-- **CGIB: Understanding Multi-scale Feature Interactions for Multi-task Dense Prediction**
-
-  Yue Ding, Shalayiding Sirejiding, Yuxiang Lu, **Suizhi Huang**, Bayram Bayramli, Hongtao Lu
-
-  ACM MULTIMEDIA (ACMMM) 2024 _under review_
-
-
 - **[Optimization of convolutional neural networks for background suppression in the PandaX-III experiment](https://iopscience.iop.org/article/10.1088/1361-6471/acfe24)**
   
   Shangning Xia, **Suizhi Huang**, Kexin Xu, Tao Li, Xun Chen, Ke Han, Shaobo Wang
@@ -110,6 +104,7 @@ IEEE International Conference on Acoustics, Speech and Signal Processing **(ICAS
   Journal of Physics G: Nuclear and Particle Physics 2023
   
 # 🎖 Honors and Awards
+- *2024.11* National Scholarship of China
 - *2024.01* Huatai Securities Science and Technology Scholarship
 - *2022.06* Outstanding Graduate of SJTU
 - *2021.10 & 2019.10* Outstanding Student of SJTU
