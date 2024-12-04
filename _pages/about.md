@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am a master’s student majoring in Electronic Information at Department of Computer Science and Engineering of [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), supervised by Professor [Hongtao Lu](https://scholar.google.com/citations?user=GtNuBJcAAAAJ) at [BCMI Lab](https://bcmi.sjtu.edu.cn/index.html). I received my bachelor's degree from Shanghai Jiao Tong University in 2022. Here is my [CV](./Suizhi_Huang_CV_photo.pdf).
+Hi! I am a master’s student majoring in Electronic Information at Department of Computer Science and Engineering of [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), supervised by [Prof. Hongtao Lu](https://scholar.google.com/citations?user=GtNuBJcAAAAJ) at [BCMI Lab](https://bcmi.sjtu.edu.cn/index.html). I received my bachelor's degree from Shanghai Jiao Tong University in 2022. Previously, I was a visiting student at LV-Lab, ECE, National University of Singapore, supervised by [Prof. Xinchao Wang](https://www.eng.nus.edu.sg/ece/staff/wang-xinchao/). Here is my [CV](./Suizhi_Huang_CV_photo.pdf).
 
 My primary areas of research interest include computer vision, diffusion model, multi-task learning, and federated learning. I have published several papers at international conferences and journals with total Google Scholar citations<img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">.
 
@@ -33,7 +33,7 @@ My primary areas of research interest include computer vision, diffusion model, 
 
 # 📖 Educations
 - *2022.09 - 2025.03 (now)*, **Master Candidate** in Electronic Information, Shanghai Jiao Tong University, China.
-- *2024.08 - 2024.11*, **Visiting Student** at ECE, National University of Singapore, Singapre.
+- *2024.08 - 2024.11*, **Visiting Student** at LV-Lab, ECE, National University of Singapore, Singapre.
 - *2018.09 - 2022.06*, **Bachelor of Arts** in French, **Bachelor of Engineering** in Information Engineering, Shanghai Jiao Tong University, China.
 
 
