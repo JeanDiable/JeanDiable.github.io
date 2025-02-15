@@ -99,8 +99,8 @@ IEEE International Conference on Acoustics, Speech and Signal Processing **(ICAS
   Journal of Physics G: Nuclear and Particle Physics 2023
   
 # 🎖 Honors and Awards
-- *2025.12* Outstanding Graduate of Shanghai (top 5\% in Shanghai)
-- *2024.11* National Scholarship of Graduate (top 1\% national-wide)
+- *2025.12* Outstanding Graduate of Shanghai (top 5% in Shanghai)
+- *2024.11* National Scholarship of Graduate (top 1% national-wide)
 - *2022-2024* First-Class Master's Academic Scholarship
 - *2024.01* Huatai Securities Science and Technology Scholarship
 - *2022.06* Outstanding Graduate of SJTU
