@@ -61,11 +61,6 @@ IEEE International Conference on Acoustics, Speech and Signal Processing **(ICAS
 </div>
 </div>
 
-- **Few-shot Implicit Function Generation**
-
-  **Suizhi Huang**, Xingyi Yang, Hongtao Lu, Xinchao Wang
-
-  IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025 (under review)
 
 - **[UNIDEAL: Curriculum Knowledge Distillation Federated Learning](https://ieeexplore.ieee.org/abstract/document/10447769/)**
   
@@ -104,7 +99,9 @@ IEEE International Conference on Acoustics, Speech and Signal Processing **(ICAS
   Journal of Physics G: Nuclear and Particle Physics 2023
   
 # 🎖 Honors and Awards
-- *2024.11* National Scholarship of China
+- *2025.12* Outstanding Graduate of Shanghai (top 5\% in Shanghai)
+- *2024.11* National Scholarship of Graduate (top 1\% national-wide)
+- *2022-2024* First-Class Master's Academic Scholarship
 - *2024.01* Huatai Securities Science and Technology Scholarship
 - *2022.06* Outstanding Graduate of SJTU
 - *2021.10 & 2019.10* Outstanding Student of SJTU
@@ -112,7 +109,8 @@ IEEE International Conference on Acoustics, Speech and Signal Processing **(ICAS
 - *2019* SJTU SPEIT ARDIAN Enterprise Scholarship
 
 # 📚 Services
-- *2024.02* NeurIPS, CVPR, ICONIP, ICME, PRML Reviewer
+- *2025* ACMMM, ICME, CVPR Reviewer
+- *2024* NeurIPS, CVPR, ICONIP, ICME, PRML Reviewer
 - *2023.09 - 2024.06* TA, Physics, SPEIT, SJTU
 
 # 🔨 Skills
