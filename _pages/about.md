@@ -40,7 +40,7 @@ My primary areas of research interest include computer vision, diffusion model, 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/equigen.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/EquiGen.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[Few-shot Implicit Function Generation via Equivariance](https://arxiv.org/abs/2501.01601)**
