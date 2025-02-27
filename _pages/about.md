@@ -23,6 +23,7 @@ My primary areas of research interest include computer vision, diffusion model, 
 
 
 # 🔥 News
+- *2025.02*: &nbsp;🎉🎉 One paper accepted by **CVPR 2025**!
 - *2024.11*: &nbsp;🎉🎉 One paper accepted by **WSDM 2024**!
 - *2024.05*: &nbsp;🎉🎉 One paper accepted by **TCSVT 2024**!
 - *2024.04*: &nbsp;🎉🎉 One paper accepted by **ICMR 2024**!
@@ -38,6 +39,18 @@ My primary areas of research interest include computer vision, diffusion model, 
 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/equigen.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[Few-shot Implicit Function Generation via Equivariance](https://arxiv.org/abs/2501.01601)**
+
+**Suizhi Huang**, Xingyi Yang, Hongtao Lu, Xinchao Wang
+
+IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR) 2025**
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/fedhca2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
