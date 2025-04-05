@@ -23,6 +23,7 @@ My primary areas of research interest include computer vision, diffusion model, 
 
 
 # 🔥 News
+- *2025.04*: &nbsp;🎉🎉 One paper selected as **Highlight** for **CVPR 2025**!
 - *2025.02*: &nbsp;🎉🎉 One paper accepted by **CVPR 2025**!
 - *2024.11*: &nbsp;🎉🎉 One paper accepted by **WSDM 2024**!
 - *2024.05*: &nbsp;🎉🎉 One paper accepted by **TCSVT 2024**!
@@ -47,7 +48,7 @@ My primary areas of research interest include computer vision, diffusion model, 
 
 **Suizhi Huang**, Xingyi Yang, Hongtao Lu, Xinchao Wang
 
-IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR) 2025**
+IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR) 2025 Highlight**
 </div>
 </div>
 
