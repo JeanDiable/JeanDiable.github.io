@@ -24,7 +24,7 @@ My primary areas of research interest include computer vision, diffusion model, 
 
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 One paper accepted by **ICML 2025**!
-- *2025.04*: &nbsp;🎉🎉 One paper selected as **Highlight** for **CVPR 2025**!
+- *2025.04*: &nbsp;🎉🎉 One paper selected as **Highlight** for **CVPR 2025**! See you in Nashville!
 - *2025.02*: &nbsp;🎉🎉 One paper accepted by **CVPR 2025**!
 - *2024.11*: &nbsp;🎉🎉 One paper accepted by **WSDM 2024**!
 - *2024.05*: &nbsp;🎉🎉 One paper accepted by **TCSVT 2024**!
