@@ -23,6 +23,7 @@ My primary areas of research interest include computer vision, diffusion model, 
 
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 One paper accepted by **ICML 2025**!
 - *2025.04*: &nbsp;🎉🎉 One paper selected as **Highlight** for **CVPR 2025**!
 - *2025.02*: &nbsp;🎉🎉 One paper accepted by **CVPR 2025**!
 - *2024.11*: &nbsp;🎉🎉 One paper accepted by **WSDM 2024**!
@@ -75,6 +76,11 @@ IEEE International Conference on Acoustics, Speech and Signal Processing **(ICAS
 </div>
 </div>
 
+- **[BECAME: BayEsian Continual Learning with Adaptive Model MErging](https://arxiv.org/abs/2504.02666)**
+  
+  Mei Li, Yuxiang Lu, Qinyan Dai, **Suizhi Huang**, Yue Ding, Hongtao Lu
+  
+  International Conference on Machine Learning **(ICML) 2025**
 
 - **[UNIDEAL: Curriculum Knowledge Distillation Federated Learning](https://ieeexplore.ieee.org/abstract/document/10447769/)**
   
