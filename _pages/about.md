@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I will be a Ph.D. student at the Centre for Computational Data Science (CCDS) at Nanyang Technological University (NTU), supervised by [Professor Han Yu](https://sites.google.com/site/hanyushomepage/home) at Trustworthy Federated Ubiquitous Learning Research Lab [(TrustFUL)](https://trustful.federated-learning.org/).
+Hi! I will be a Ph.D. student at the Centre for Computational Data Science (CCDS) at Nanyang Technological University (NTU), supervised by [Professor Han Yu](https://sites.google.com/site/hanyushomepage/home) at Trustworthy Federated Ubiquitous Learning Research Lab [(TrustFUL)](https://trustful.federated-learning.org/) from Aug. 2025.
 
 Before joining NTU, I completed my Master's degree in Electronic Information at Department of Computer Science and Engineering of [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), supervised by [Prof. Hongtao Lu](https://scholar.google.com/citations?user=GtNuBJcAAAAJ) at [BCMI Lab](https://bcmi.sjtu.edu.cn/index.html). I received my bachelor's degree from Shanghai Jiao Tong University in 2022. Previously, I was a visiting student at [LV-Lab](http://lv-nus.org/), ECE, National University of Singapore, supervised by [Prof. Xinchao Wang](https://sites.google.com/site/sitexinchaowang/). Here is my [CV](./Suizhi_Huang_CV_photo.pdf).
 
