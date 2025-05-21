@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am a master’s student majoring in Electronic Information at Department of Computer Science and Engineering of [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), supervised by [Prof. Hongtao Lu](https://scholar.google.com/citations?user=GtNuBJcAAAAJ) at [BCMI Lab](https://bcmi.sjtu.edu.cn/index.html). I received my bachelor's degree from Shanghai Jiao Tong University in 2022. Previously, I was a visiting student at [LV-Lab](http://lv-nus.org/), ECE, National University of Singapore, supervised by [Prof. Xinchao Wang](https://sites.google.com/site/sitexinchaowang/). Here is my [CV](./Suizhi_Huang_CV_photo.pdf).
+Hi! I will be a Ph.D. student at the Centre for Computational Data Science (CCDS) at Nanyang Technological University (NTU), supervised by [Professor Han Yu](https://sites.google.com/site/hanyushomepage/home) at Trustworthy Federated Ubiquitous Learning Research Lab [(TrustFUL)](https://trustful.federated-learning.org/).
 
-My primary areas of research interest include computer vision, diffusion model, multi-task learning, and federated learning. I have published several papers at international conferences and journals with total Google Scholar citations<img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">.
+Before joining NTU, I completed my Master's degree in Electronic Information at Department of Computer Science and Engineering of [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), supervised by [Prof. Hongtao Lu](https://scholar.google.com/citations?user=GtNuBJcAAAAJ) at [BCMI Lab](https://bcmi.sjtu.edu.cn/index.html). I received my bachelor's degree from Shanghai Jiao Tong University in 2022. Previously, I was a visiting student at [LV-Lab](http://lv-nus.org/), ECE, National University of Singapore, supervised by [Prof. Xinchao Wang](https://sites.google.com/site/sitexinchaowang/). Here is my [CV](./Suizhi_Huang_CV_photo.pdf).
+
+My primary areas of research interest include federated learning, computer vision, multi-task learning, generative model and weight space learning. I have published several papers at international conferences and journals with total Google Scholar citations<img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">.
 
 
 # 🔥 News
@@ -50,6 +52,7 @@ My primary areas of research interest include computer vision, diffusion model, 
 **Suizhi Huang**, Xingyi Yang, Hongtao Lu, Xinchao Wang
 
 IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR) 2025 Highlight**
+[code](https://github.com/JeanDiable/EquiGen)
 </div>
 </div>
 
