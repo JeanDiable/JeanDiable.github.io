@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Suizhi Huang <br> 黄遂之"
   avatar           : "images/suizhi1.png"
-  bio              : "Master Student in Computer Science @ CSE Department of Shanghai Jiao Tong University"
-  location         : "Shanghai, China"
+  bio              : "PhD Student @ CCDS, NTU"
+  location         : "Singapore"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Bg9FHewAAAAJ"
-  email            : "huangsuizhi@sjtu.edu.cn"
+  email            : "SUIZHI001@e.ntu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
