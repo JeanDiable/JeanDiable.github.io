@@ -37,8 +37,8 @@ My primary areas of research interest include federated learning, computer visio
 - *2023.12*: &nbsp;🎉🎉 Three paper accepted by **ICASSP 2024**! See you in Seoul!
 
 # 📖 Educations
-- *2022.09 - 2025.03 (now)*, **Master Candidate** in Electronic Information, Shanghai Jiao Tong University, China.
-- *2024.08 - 2024.11*, **Visiting Student** at LV-Lab, ECE, National University of Singapore, Singapre.
+- *2022.09 - 2025.03*, **Master of Engineering** in Electronic Information, Shanghai Jiao Tong University, China.
+- *2024.08 - 2024.11*, **Visiting Student** at LV-Lab, ECE, National University of Singapore, Singapore.
 - *2018.09 - 2022.06*, **Bachelor of Arts** in French, **Bachelor of Engineering** in Information Engineering, Shanghai Jiao Tong University, China.
 
 
