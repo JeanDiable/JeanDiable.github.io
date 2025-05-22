@@ -51,8 +51,9 @@ My primary areas of research interest include federated learning, computer visio
 
 **Suizhi Huang**, Xingyi Yang, Hongtao Lu, Xinchao Wang
 
-IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR) 2025 Highlight**
-[code](https://github.com/JeanDiable/EquiGen)
+IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR) 2025 Highlight**<br>
+[code](https://github.com/JeanDiable/EquiGen),
+[web page](https://jeandiable.github.io/EquiGen/)
 </div>
 </div>
 
