@@ -25,6 +25,7 @@ My primary areas of research interest include federated learning, computer visio
 
 
 # 🔥 News
+- *2025.06*: &nbsp;🎉🎉 One paper accepted by **ICCV 2025**!
 - *2025.05*: &nbsp;🎉🎉 One paper accepted by **ICML 2025**!
 - *2025.04*: &nbsp;🎉🎉 One paper selected as **Highlight** for **CVPR 2025**! See you in Nashville!
 - *2025.02*: &nbsp;🎉🎉 One paper accepted by **CVPR 2025**!
@@ -85,6 +86,13 @@ IEEE International Conference on Acoustics, Speech and Signal Processing **(ICAS
   Mei Li, Yuxiang Lu, Qinyan Dai, **Suizhi Huang**, Yue Ding, Hongtao Lu
   
   International Conference on Machine Learning **(ICML) 2025**
+
+- **[Differentiable Gaussian Representation for Incomplete CT Reconstruction](https://arxiv.org/abs/2411.04844)**
+  
+  Shaokai Wu, Yuxiang Lu, Wei Ji, **Suizhi Huang**, Fengyu Yang, Shalayiding Sirejiding, Qichen He, Jing Tong, Yanbiao Ji, Yue Ding, Hongtao Lu
+  
+  International Conference on Computer Vision, **ICCV 2025**
+
 
 - **[UNIDEAL: Curriculum Knowledge Distillation Federated Learning](https://ieeexplore.ieee.org/abstract/document/10447769/)**
   
