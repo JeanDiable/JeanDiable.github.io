@@ -91,8 +91,13 @@ IEEE International Conference on Acoustics, Speech and Signal Processing **(ICAS
   
   Shaokai Wu, Yuxiang Lu, Wei Ji, **Suizhi Huang**, Fengyu Yang, Shalayiding Sirejiding, Qichen He, Jing Tong, Yanbiao Ji, Yue Ding, Hongtao Lu
   
-  International Conference on Computer Vision, **ICCV 2025**
+  International Conference on Computer Vision, **(ICCV) 2025**
 
+- **[Towards personalized federated multi-scenario multi-task recommendation](https://dl.acm.org/doi/abs/10.1145/3701551.3703523)**
+
+  Yue Ding, Yanbiao Ji, Xun Cai, Xin Xin, Yuxiang Lu, **Suizhi Huang**, Chang Liu, Xiaofeng Gao, Tsuyoshi Murata, Hongtao Lu
+
+  Proceedings of the Eighteenth ACM International Conference on Web Search and Data Mining, **(WSDM) 2025**
 
 - **[UNIDEAL: Curriculum Knowledge Distillation Federated Learning](https://ieeexplore.ieee.org/abstract/document/10447769/)**
   
