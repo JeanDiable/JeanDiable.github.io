@@ -146,7 +146,7 @@ IEEE International Conference on Acoustics, Speech and Signal Processing **(ICAS
 - *2019* SJTU SPEIT ARDIAN Enterprise Scholarship
 
 # 📚 Services
-- *2025* ACMMM, ICME, CVPR, ICCV Reviewer
+- *2025* ACMMM, ICME, CVPR, ICCV, IEEE TEC Reviewer
 - *2024* NeurIPS, CVPR, ICONIP, ICME, PRML Reviewer
 - *2023.09 - 2024.06* TA, Physics, SPEIT, SJTU
 
