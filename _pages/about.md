@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I will be a Ph.D. student at the Centre for Computational Data Science (CCDS) at Nanyang Technological University (NTU), supervised by [Professor Han Yu](https://sites.google.com/site/hanyushomepage/home) at Trustworthy Federated Ubiquitous Learning Research Lab [(TrustFUL)](https://trustful.federated-learning.org/) from Aug. 2025.
+Hi! I am a Ph.D. student at the Centre for Computational Data Science (CCDS) at Nanyang Technological University (NTU), supervised by [Professor Han Yu](https://sites.google.com/site/hanyushomepage/home) at Trustworthy Federated Ubiquitous Learning Research Lab [(TrustFUL)](https://trustful.federated-learning.org/).
 
 Before joining NTU, I completed my Master's degree in Electronic Information at Department of Computer Science and Engineering of [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), supervised by [Prof. Hongtao Lu](https://scholar.google.com/citations?user=GtNuBJcAAAAJ) at [BCMI Lab](https://bcmi.sjtu.edu.cn/index.html). I received my bachelor's degree from Shanghai Jiao Tong University in 2022. Previously, I was a visiting student at [LV-Lab](http://lv-nus.org/), ECE, National University of Singapore, supervised by [Prof. Xinchao Wang](https://sites.google.com/site/sitexinchaowang/). Here is my [CV](./Suizhi_Huang_CV_photo.pdf).
 
@@ -25,6 +25,8 @@ My primary areas of research interest include federated learning, computer visio
 
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 Invited talk at [NVIDIA FLARE Day APAC](https://developer.nvidia.com/flare-day-2025), Online, 2025!
+- *2025.07*: &nbsp;🎉🎉 One paper accepted by **ACMMM Dataset Track 2025**!
 - *2025.06*: &nbsp;🎉🎉 One paper accepted by **ICCV 2025**!
 - *2025.05*: &nbsp;🎉🎉 One paper accepted by **ICML 2025**!
 - *2025.04*: &nbsp;🎉🎉 One paper selected as **Highlight** for **CVPR 2025**! See you in Nashville!
@@ -42,6 +44,11 @@ My primary areas of research interest include federated learning, computer visio
 - *2024.08 - 2024.11*, **Visiting Student** at LV-Lab, ECE, National University of Singapore, Singapore.
 - *2018.09 - 2022.06*, **Bachelor of Arts** in French, **Bachelor of Engineering** in Information Engineering, Shanghai Jiao Tong University, China.
 
+# 📝 Talks
+- Invited talk "Embracing Diversity in Federated Learning: A Framework for Hetero-Client Collaboration"  at [NVIDIA FLARE Day APAC](https://developer.nvidia.com/flare-day-2025).
+
+# 💻 Open-source Softwares
+- [NVFlare](https://github.com/NVIDIA/NVFlare): NVIDIA Federated Learning Application Runtime Environment, Contributor
 
 # 📝 Publications 
 
@@ -154,6 +161,6 @@ IEEE International Conference on Acoustics, Speech and Signal Processing **(ICAS
 - **Programming Languages**: Python, C/C++
 - **Platform**: Linux, Windows, Docker
 - **Development**: PyTorch, OpenCV, Git, CUDA
-- **English Proficiency**: TOEFL iBT: 111
+- **English Proficiency**: TOEFL iBT: 111, GRE:330
 - **French Proficiency**: DELF B2
 - **Document Writing**: LaTeX, Markdown 
