@@ -141,6 +141,11 @@ IEEE International Conference on Acoustics, Speech and Signal Processing **(ICAS
   Shangning Xia, **Suizhi Huang**, Kexin Xu, Tao Li, Xun Chen, Ke Han, Shaobo Wang
   
   Journal of Physics G: Nuclear and Particle Physics 2023
+
+# 📝 ArXiv Preprints
+- **A Comprehensive Survey on Benchmarks an Solutions in Software Engineering of LLM-Empowered Agentic System**
+  
+  Jiale Guo$^\*$, **Suizhi Huang$^\*$**, Mei Li$^*$, Dong Huang, Xingsheng Chen, Regina Zhang, Zhijiang Guo, Han Yu, Siu-Ming Yiu, Christian Jensen, Pietro Lio, Kwok-Yan Lam (co-first author)
   
 # 🎖 Honors and Awards
 - *2025.12* Outstanding Graduate of Shanghai (top 5% in Shanghai)
