@@ -146,6 +146,10 @@ IEEE International Conference on Acoustics, Speech and Signal Processing **(ICAS
 - **[A Comprehensive Survey on Benchmarks an Solutions in Software Engineering of LLM-Empowered Agentic System](https://arxiv.org/abs/2510.09721)**
   
   Jiale Guo$^\*$, **Suizhi Huang$^\*$**, Mei Li$^*$, Dong Huang, Xingsheng Chen, Regina Zhang, Zhijiang Guo, Han Yu, Siu-Ming Yiu, Christian Jensen, Pietro Lio, Kwok-Yan Lam (co-first author)
+
+- **[TextResNet: Decoupling and Routing Optimization Signals in Compound AI Systems via Deep Residual Tuning](https://arxiv.org/abs/2602.08306)**
+
+  **Suizhi Huang**, Mei Li, Han Yu, Xiaoxiao Li
   
 # 🎖 Honors and Awards
 - *2025.12* Outstanding Graduate of Shanghai (top 5% in Shanghai)
