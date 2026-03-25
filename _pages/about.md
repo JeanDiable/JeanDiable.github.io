@@ -25,6 +25,7 @@ My primary areas of research interest include federated learning, computer visio
 
 
 # 🔥 News
+- *2026.03*: &nbsp;🎉🎉 One paper accepted by **CVIU**!
 - *2025.09*: &nbsp;🎉🎉 Invited talk at [NVIDIA FLARE Day APAC](https://developer.nvidia.com/flare-day-2025), Online, 2025!
 - *2025.07*: &nbsp;🎉🎉 One paper accepted by **ACMMM Dataset Track 2025**!
 - *2025.06*: &nbsp;🎉🎉 One paper accepted by **ICCV 2025**!
@@ -100,6 +101,12 @@ IEEE International Conference on Acoustics, Speech and Signal Processing **(ICAS
   
   International Conference on Computer Vision, **(ICCV) 2025**
 
+- **[HACMatch: Semi-supervised rotation regression with hardness-aware curriculum pseudo labeling](https://www.sciencedirect.com/science/article/abs/pii/S1077314226001098)**
+
+  Mei Li, Huayi Zhou, **Suizhi Huang**, Yuxiang Lu, Yue Ding, Hongtao Lu
+
+  Computer Vision and Image Understanding, **(CVIU)**
+
 - **[Towards personalized federated multi-scenario multi-task recommendation](https://dl.acm.org/doi/abs/10.1145/3701551.3703523)**
 
   Yue Ding, Yanbiao Ji, Xun Cai, Xin Xin, Yuxiang Lu, **Suizhi Huang**, Chang Liu, Xiaofeng Gao, Tsuyoshi Murata, Hongtao Lu
@@ -141,6 +148,7 @@ IEEE International Conference on Acoustics, Speech and Signal Processing **(ICAS
   Shangning Xia, **Suizhi Huang**, Kexin Xu, Tao Li, Xun Chen, Ke Han, Shaobo Wang
   
   Journal of Physics G: Nuclear and Particle Physics 2023
+  
 
 # 📝 ArXiv Preprints
 - **[A Comprehensive Survey on Benchmarks an Solutions in Software Engineering of LLM-Empowered Agentic System](https://arxiv.org/abs/2510.09721)**
