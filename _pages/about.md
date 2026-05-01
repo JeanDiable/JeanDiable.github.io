@@ -25,7 +25,7 @@ My primary areas of research interest include federated learning, computer visio
 
 
 # 🔥 News
-- *2026.05*: &nbsp;🎉🎉 One paper accepted by **ICML 2026**!
+- *2026.05*: &nbsp;🎉🎉 One paper accepted by **ICML 2026**! See you in Seoul!
 - *2026.03*: &nbsp;🎉🎉 One paper accepted by **CVIU**!
 - *2025.09*: &nbsp;🎉🎉 Invited talk at [NVIDIA FLARE Day APAC](https://developer.nvidia.com/flare-day-2025), Online, 2025!
 - *2025.07*: &nbsp;🎉🎉 One paper accepted by **ACMMM Dataset Track 2025**!
