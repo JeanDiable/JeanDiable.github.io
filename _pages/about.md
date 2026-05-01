@@ -25,6 +25,7 @@ My primary areas of research interest include federated learning, computer visio
 
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 One paper accepted by **ICML 2026**!
 - *2026.03*: &nbsp;🎉🎉 One paper accepted by **CVIU**!
 - *2025.09*: &nbsp;🎉🎉 Invited talk at [NVIDIA FLARE Day APAC](https://developer.nvidia.com/flare-day-2025), Online, 2025!
 - *2025.07*: &nbsp;🎉🎉 One paper accepted by **ACMMM Dataset Track 2025**!
@@ -52,6 +53,17 @@ My primary areas of research interest include federated learning, computer visio
 - [NVFlare](https://github.com/NVIDIA/NVFlare): NVIDIA Federated Learning Application Runtime Environment, Contributor
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/icml2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[TextResNet: Decoupling and Routing Optimization Signals in Compound AI Systems via Deep Residual Tuning](https://arxiv.org/abs/2602.08306)**
+
+**Suizhi Huang**, Mei Li, Han Yu, Xiaoxiao Li
+
+International Conference on Machine Learning **(ICML) 2026**
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/EquiGen.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -154,10 +166,6 @@ IEEE International Conference on Acoustics, Speech and Signal Processing **(ICAS
 - **[A Comprehensive Survey on Benchmarks an Solutions in Software Engineering of LLM-Empowered Agentic System](https://arxiv.org/abs/2510.09721)**
   
   Jiale Guo$^\*$, **Suizhi Huang$^\*$**, Mei Li$^*$, Dong Huang, Xingsheng Chen, Regina Zhang, Zhijiang Guo, Han Yu, Siu-Ming Yiu, Christian Jensen, Pietro Lio, Kwok-Yan Lam (co-first author)
-
-- **[TextResNet: Decoupling and Routing Optimization Signals in Compound AI Systems via Deep Residual Tuning](https://arxiv.org/abs/2602.08306)**
-
-  **Suizhi Huang**, Mei Li, Han Yu, Xiaoxiao Li
   
 # 🎖 Honors and Awards
 - *2025.12* Outstanding Graduate of Shanghai (top 5% in Shanghai)
