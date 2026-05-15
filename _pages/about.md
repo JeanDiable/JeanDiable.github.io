@@ -25,6 +25,7 @@ My primary areas of research interest include federated learning, computer visio
 
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 Selected as **Gold Reviewer** by ICML 2026!
 - *2026.05*: &nbsp;🎉🎉 One paper accepted by **ICML 2026**! See you in Seoul!
 - *2026.03*: &nbsp;🎉🎉 One paper accepted by **CVIU**!
 - *2025.09*: &nbsp;🎉🎉 Invited talk at [NVIDIA FLARE Day APAC](https://developer.nvidia.com/flare-day-2025), Online, 2025!
@@ -168,6 +169,7 @@ IEEE International Conference on Acoustics, Speech and Signal Processing **(ICAS
   Jiale Guo$^\*$, **Suizhi Huang$^\*$**, Mei Li$^*$, Dong Huang, Xingsheng Chen, Regina Zhang, Zhijiang Guo, Han Yu, Siu-Ming Yiu, Christian Jensen, Pietro Lio, Kwok-Yan Lam (co-first author)
   
 # 🎖 Honors and Awards
+- *2026.5* Gold Reviewer Award by ICML 2026
 - *2025.12* Outstanding Graduate of Shanghai (top 5% in Shanghai)
 - *2024.11* National Scholarship of Graduate (top 1% national-wide)
 - *2022-2024* First-Class Master's Academic Scholarship
